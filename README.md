@@ -2,7 +2,9 @@
 
 Works on Django 1.9 and Python 2.7 and above.
 
-pip install django pip install djangorestframework django-admin.py startproject restexample .
+pip install django
+pip install djangorestframework 
+django-admin.py startproject restexample .
 
 *USE MIGRATE IN Django (1.9) and ./manage.py syncdb for older versions. Use ./migrate.py help for list of commands.*
 ./manage.py migrate
